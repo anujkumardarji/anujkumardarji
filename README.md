@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anujkumar Darji</h1>
-<h3 align="center">Versatile Full Stack Developer: Proficient in Front-End and Back-End Technologies, adept in Team Collaboration and Rapid Skill Acquisition for Optimal Results</h3>
+<h3 align="center">Versatile Full Stack Developer: Proficient in Front-End and Back-End Technologies, adept in Team Collaboration and Rapid Skill Acquisition for Optimal Results</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujkumardarji&label=Profile%20views&color=0e75b6&style=flat" alt="anujkumardarji" /> </p>
 
