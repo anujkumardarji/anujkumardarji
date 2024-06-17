@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **anujdarji100737@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1uHxZB4Z87udIPFJ48pTBOTO5zB073mo_aNENfaCrn3M/edit?usp=sharing](https://docs.google.com/document/d/1uHxZB4Z87udIPFJ48pTBOTO5zB073mo_aNENfaCrn3M/edit?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://docs.google.com/document/d/1nITrBVRqgd-2eHSxseZMlino01WigFwRUMZa_vb1aDs/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
